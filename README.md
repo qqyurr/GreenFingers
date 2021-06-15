@@ -50,6 +50,7 @@ https://drive.google.com/file/d/1vfVPLA8iOjxyvffCQR532VBHs4qW8OgG/view?usp=shari
 ### Frontend
 
 - React Native CLI
+- React를 활용한 웹 페이지 구현
 - Styled Components 활용
 - Redux를 이용해 상태관리
 - Firebase를 이용한 로그인 기능 구현
